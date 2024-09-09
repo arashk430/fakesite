@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Iransans';
+    font-weight: normal;
+    src: url('fonts/IRANYekanX-Regular.woff2');
+}
+
+@font-face {
+    font-family: 'Iransans';
+    font-weight: 500;
+    src: url('fonts/IRANYekanX-Medium.woff2');
+}

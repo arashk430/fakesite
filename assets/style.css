@@ -1,0 +1,15 @@
+@import url(font.css);
+
+*,
+:root,
+body,
+h1,
+h2,
+h3 {
+    font-family: Iransans !important;
+}
+
+
+.v-btn{
+    letter-spacing: normal !important;
+}
